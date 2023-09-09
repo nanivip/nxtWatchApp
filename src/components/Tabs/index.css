@@ -1,0 +1,16 @@
+.li-container {
+  list-style-type: none;
+  margin-right: 50px;
+}
+.tab-btn {
+  color: #db1c48;
+  height: 40px;
+  width: 80px;
+  background-color: transparent;
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+}
+.act-tab-btn {
+  color: #ffffff;
+  background-color: #db1c48;
+}
